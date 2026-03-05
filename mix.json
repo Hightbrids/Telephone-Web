@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "I phone 12 pro",
+    "price": 34000,
+    "image": "http://nindam.sytes.net/std6630251261/God/images/12pro.jpg"
+  },
+  {
+    "id": 2,
+    "name": "I phone 13 pro",
+    "price": 24000,
+    "image": "http://nindam.sytes.net/std6630251261/God/images/13pro.jpg"
+  },
+  {
+    "id": 3,
+    "name": "I phone 14 pro",
+    "price": 15000,
+    "image": "http://nindam.sytes.net/std6630251261/God/images/14pro.jpg"
+  }
+]
