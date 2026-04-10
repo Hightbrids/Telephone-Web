@@ -1,3 +1,4 @@
+```
 📱 Telephone Web - Product Management System
 
 A modern web-based product management system built with Next.js (TypeScript) and backend integration for managing mobile products.
@@ -18,6 +19,10 @@ Frontend routing with Next.js
 API integration & data handling
 Authentication flow implementation
 CRUD operations (Create, Read, Update, Delete)
+
+## 🗂️ Project Structure
+
+
 Telephone-Web/
 │
 ├── code internet/
@@ -36,7 +41,8 @@ Telephone-Web/
 ├── package-lock.json
 ├── mix.json
 ├── products_iphone.sql     # Database schema
-├── README.md
+└── README.md
+
 
 🛠️ Tech Stack
 Frontend: Next.js, TypeScript
@@ -47,3 +53,4 @@ Tools: Git, npm
 👨‍💻 About Me
 Name: Autsadayus Sribua 
 Role: Junior Web Developer
+```
