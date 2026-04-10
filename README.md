@@ -50,6 +50,16 @@ Backend: (API / PHP / Node depending on your setup)
 Database: MySQL
 Tools: Git, npm
 
+explain
+git clone https://github.com/your-username/telephone-web.git
+step2
+DB_HOST=localhost
+DB_USER=root
+DB_PASSWORD=
+DB_NAME=products_db
+setp3
+npm run dev
+
 👨‍💻 About Me
 Name: Autsadayus Sribua 
 Role: Junior Web Developer
